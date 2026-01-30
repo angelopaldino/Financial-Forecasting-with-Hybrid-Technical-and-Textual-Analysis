@@ -1,4 +1,5 @@
 # Financial Forecasting with Hybrid Technical and Textual Analysis
+https://github.com/angelopaldino/Financial-Forecasting-with-Hybrid-Technical-and-Textual-Analysis/issues/1#issue-3875191164
 
 ## Introduction
 
