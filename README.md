@@ -50,13 +50,6 @@ A critical component of this project is understanding *how* the models make deci
 ## Repository Structure
 
 ```text
-.
-├── data/
-│   ├── raw/                 # Original market and news data
-│   └── processed/           # Normalized numpy arrays (X_train, y_train, etc.)
-├── models/
-│   ├── hybrid_models/       # Saved Keras (.keras) and Joblib (.pkl) models
-│   └── baseline_utils/      
 ├── notebooks/               # Jupyter notebooks
 ├── utils/                   # helper function to display graphs
 └── README.md                # This document
