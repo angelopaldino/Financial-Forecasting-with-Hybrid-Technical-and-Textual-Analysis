@@ -6,7 +6,7 @@
 
 This project addresses the challenge of financial time series forecasting by proposing a hybrid methodology that integrates quantitative market data with qualitative textual information.
 
-Building upon the foundations laid in the research paper **"[Insert Original Paper Title Here]"**, this work extends the original scope by incorporating advanced Natural Language Processing (NLP) techniques. While traditional approaches often rely solely on historical price and volume data, our research hypothesizes that financial news and market sentiment play a crucial role in predicting short-term market movements.
+Building upon the foundations laid in the research paper **"[Evaluating Transparency: A Cross-Model Exploration of Explainable AI in Financial Forecasting, Dylan Valensky, Mahsa Mohaghegh]"**, this work extends the original scope by incorporating advanced Natural Language Processing (NLP) techniques. While traditional approaches often rely solely on historical price and volume data, our research hypothesizes that financial news and market sentiment play a crucial role in predicting short-term market movements.
 
 The core innovation of this repository is the enrichment of the input dataset with sentiment scores derived from **FinBERT**, a BERT model specifically fine-tuned for the financial domain, combined with Deep Learning architectures (LSTM and CNN) to capture both temporal dependencies and sentiment-driven volatility.
 
