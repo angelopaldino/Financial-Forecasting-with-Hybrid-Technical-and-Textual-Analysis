@@ -17,7 +17,7 @@ The primary objective is to predict the future trend or price of a financial ass
 ### The Hybrid Approach
 Financial markets are influenced by two main factors:
 1.  **Technical Factors:** Historical price trends, volume, and volatility.
-2.  **Fundamental/Psychological Factors:** News, earnings reports, and general investor sentiment.
+2.  **Textual Factors:** News, earnings reports.
 
 This project merges these two streams. We utilize historical market data as the technical baseline and augment it with a "Sentiment Score" feature. This score is not a simple dictionary-based count but a semantic representation extracted using FinBERT, allowing the model to understand the context of financial news headlines.
 
