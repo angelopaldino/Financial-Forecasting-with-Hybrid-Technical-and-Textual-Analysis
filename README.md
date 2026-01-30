@@ -1,4 +1,3 @@
-# Financial-Forecasting-with-Hybrid-Technical-and-Textual-Analysis
 # Financial Forecasting with Hybrid Technical and Textual Analysis
 
 ## Introduction
