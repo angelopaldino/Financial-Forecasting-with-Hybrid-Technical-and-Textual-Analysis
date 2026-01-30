@@ -45,7 +45,7 @@ A critical component of this project is understanding *how* the models make deci
 
 * **SHAP (SHapley Additive exPlanations):** Used to determine the global importance of features. SHAP analysis helped us verify that the model relies heavily on price history (Close, Open) while utilizing Sentiment as a correction factor for volatility.
 * **LIME (Local Interpretable Model-agnostic Explanations):** Used to explain individual predictions. This allowed us to observe specific instances where the model's decision was influenced by a sudden shift in sentiment versus technical trends.
-*  **PERMUTANCE IMPORTANCE: used to perturb each feature one at a time in order to visualize which feature was most important.
+*  **PERMUTATION IMPORTANCE:** used to perturb each feature one at a time in order to visualize which feature was most important.
 
 ## Repository Structure
 
